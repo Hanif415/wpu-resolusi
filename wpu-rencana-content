@@ -2,6 +2,7 @@ RENCaNA CONTENT WPU
 
 1. VID js
   *ES6
+  ^laravel
+  ^react
 2. php framework
 3. dll
-4. fundamental datastrukter
